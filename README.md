@@ -2,6 +2,8 @@
 
 A clean .NET solution demonstrating DDD-style domain, CQRS, EF Core, and a REST API for managing customers, products, orders, and shopping carts.
 
+[Assumptions](Assumptions.md)
+
 ## Tech Stack
 - .NET `9.0`
 - ASP.NET Core Web API
