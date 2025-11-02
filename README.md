@@ -14,7 +14,7 @@ A clean .NET solution demonstrating DDD-style domain, CQRS, EF Core, and a REST 
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd validatatask
+   cd customer-order-api
    ```
 
 2. **Restore dependencies**
