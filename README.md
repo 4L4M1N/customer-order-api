@@ -42,7 +42,8 @@ A clean .NET solution demonstrating DDD-style domain, CQRS, EF Core, and a REST 
 
 5. **Run the application**
    ```bash
-   dotnet run --project CustomerOrderManagement.Api
+   cd src/Api
+   dotnet run
    ```
 
 6. **Access the API**
