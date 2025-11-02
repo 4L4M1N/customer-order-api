@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Infrastructure\CustomerOrderManagement.Infrastructure.csproj" />
+    <ProjectReference Include="..\Domain\CustomerOrderManagement.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

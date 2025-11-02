@@ -1,0 +1,49 @@
+# .NET / Visual Studio
+.vs/
+*.suo
+*.user
+*.rsuser
+*.userosscache
+*.sln.docstates
+*.csproj.user
+
+# Build outputs
+[Bb]in/
+[Oo]bj/
+**/[Bb]in/
+**/[Oo]bj/
+**/publish/
+
+# Test results and coverage
+TestResults/
+*.trx
+coverage/
+.coverage
+
+# NuGet
+packages/
+*.nupkg
+
+# IDEs and tooling
+.idea/
+_ReSharper*/
+*.DotSettings.user
+.vscode/
+
+# Logs
+*.log
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# App settings (local overrides only)
+appsettings.*.local.json
